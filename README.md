@@ -7,3 +7,4 @@ Each furniture type might have its own unique shipping cost calculation logic. F
 **Implement a visitor design pattern approach.** You must show the different elements of visitor design in your solution. DO NOT USE ABSTRACT CLASSES.
 
 ## UML Class Diagram
+https://github.com/Jax-rgb/furniture-shipping-visitor-pattern/blob/main/UmlDiagram.png
